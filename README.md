@@ -1,5 +1,5 @@
 # Medialab Project
-Hangman game Project for NTUA-ECE Cource Multimedia - 9th Semester 
+Hangman game Project for NTUA-ECE Cource Multimedia Technology - 9th Semester 
 
 Implemented in Java. Used Javafx for the UI.
 
