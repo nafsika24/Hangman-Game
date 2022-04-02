@@ -3,7 +3,9 @@
 ## About the Project
 Hangman game Project for NTUA-ECE Cource Multimedia Technology - 9th Semester 
 
-![alt text](https://github.com/nafsika24/Hangman-Game/blob/main/MediaLab%20Screenshots/mainpage.png)
+<p align="center">
+  <img src= "https://github.com/nafsika24/Hangman-Game/blob/main/MediaLab%20Screenshots/hangman.giff"  width="80%" height="70%">
+</p>
 
 ## Description
 In the game, a word is randomly chosen from a dictionary(the user has created). The user should insert in each round the guessed position and letter. At the right of the page there is a list with suggested letters for each position. These suggested letters are a result of theis occurrences at the same position in the other words of the dictionary. This list is updated in each round. You allowed to make 5 wrong suggestions. After each round there is a pop up window with the result.
