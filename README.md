@@ -4,7 +4,7 @@
 Hangman game Project for NTUA-ECE Cource Multimedia Technology - 9th Semester 
 
 <p align="center">
-  <img src= "https://github.com/nafsika24/Hangman-Game/blob/main/MediaLab%20Screenshots/hangman.giff"  width="80%" height="70%">
+  <img src= "https://github.com/nafsika24/Hangman-Game/blob/main/MediaLab%20Screenshots/hangman.gif"  width="80%" height="70%">
 </p>
 
 ## Description
